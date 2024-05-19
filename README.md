@@ -160,4 +160,5 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Output Timing Waveform**
 ![331152152-2b7adec6-de9c-405e-a9e4-8ff2d9103f1d](https://github.com/baskarsaraswathy/Project-Based-Experiment/assets/144871005/d46310c0-be9f-4517-89f4-90e846b06cc7)
 **Result:**
+
 Thus the design and simulate the traffic light controller are successfullt executed.
